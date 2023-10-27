@@ -1,1 +1,1 @@
-# Supervised-Contrastive-Learning-Loss
+# Supervised Contrastive Learning (Pytorch Implementation)
